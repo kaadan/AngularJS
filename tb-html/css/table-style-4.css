@@ -1,0 +1,12 @@
+table tr td, table tr th {
+	border: solid 1px #40900a;
+	padding: 5px;
+	text-align: left;
+}
+table tr th {
+	background: #70ad47;
+	color: #FFF;
+}
+table tr:nth-child(2n) {
+	background: #e2f2d2;
+}
